@@ -1,1 +1,1 @@
- [profile] (https://github.com/UTDClassroom/git-and-github-fundamentals-ulysses2000)
+ [Profile] (https://github.com/UTDClassroom/git-and-github-fundamentals-ulysses2000)
